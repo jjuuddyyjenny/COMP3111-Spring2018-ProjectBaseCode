@@ -1,6 +1,10 @@
 # HKUST COMP3111 Software Engineering (Spring 2018)
 
 This is a modified README
+Kevin Pratama kpmgh team leader
+Judy Wu ywubv
+Adrian Susasanato suasa
+
 
 [This README file in a website format](https://hkpeterpeter.github.io/COMP3111-Spring2018-ProjectBaseCode/)
 
